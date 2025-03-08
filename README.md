@@ -1,6 +1,6 @@
 # LASSO–MOGAT: A Multi-omics Graph Attention Framework for Cancer Classification
 
-[![Academia Biology](https://img.shields.io/badge/Academia_Biology-10.20935/AcadBiol7325-blue.svg)](https://doi.org/10.1109/ACCESS.2025.3540769)  [![arXiv](https://img.shields.io/badge/arXiv-2408.17384-b31b1b)](https://arxiv.org/abs/2408.17384)
+[![Academia Biology](https://img.shields.io/badge/Academia_Biology-10.20935/AcadBiol7325-blue.svg)](https://doi.org/10.20935/AcadBiol7325)  [![arXiv](https://img.shields.io/badge/arXiv-2408.17384-b31b1b)](https://arxiv.org/abs/2408.17384)
 
 Authors: Fadi Alharbi, Aleksandar Vakanski, Murtada K. Elbashir, Mohanad Mohammed
 
