@@ -15,7 +15,7 @@ The file containing the multi-omics data (mRNA, miRNA, and DNA methylation) can 
 
 
 ## ▶️ Use
-The codes are provided as Jupyter Notebook files. To reproduce the results, run the .ipynb files. 
+The codes are provided as a Jupyter Notebook file. To reproduce the results, run the .ipynb file. 
 
 ## 📖 Citation
 If you use the codes or the methods in your work, please cite the following <a href="https://www.academia.edu/2837-4010/2/3/10.20935/AcadBiol7325">article</a>:   
