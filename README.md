@@ -11,7 +11,7 @@ The code in the notebook [LASSO_MOGAT.ipynb](LASSO_MOGAT.ipynb) in the repositor
 
 The file [PPI.csv](PPI.csv) contains information about the PPI (protein-protein interaction) network. 
 
-The file containing the multi-omics data (mRNA, miRNA, and DNA methylation) can be downloaded from: [https://www.webpages.uidaho.edu/vakanski/Codes_Data/mRNA_miRNA_Meth_integrated.csv](https://www.webpages.uidaho.edu/vakanski/Codes_Data/mRNA_miRNA_Meth_integrated.csv).
+The file containing the multi-omics data (mRNA, miRNA, and DNA methylation) can be downloaded from: [here](https://www.idahofallshighered.org/vakanski/Codes_Data/mRNA_miRNA_Meth_integrated.csv).
 
 
 ## ▶️ Use
